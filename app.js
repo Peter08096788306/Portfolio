@@ -15,3 +15,4 @@ new Typed('.para', {
     typeSpeed : 50,
     loop : false
 })
+
